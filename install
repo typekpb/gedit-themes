@@ -43,7 +43,7 @@ This script installs the bundled theme styles for gedit.
 OPTIONS:
   -h    Shows this message
   -a    Install for all users
-  -o	Old version support (Gedit 2.x version)
+  -o    Old version support (Gedit 2.x version)
 EOF
 }
 
